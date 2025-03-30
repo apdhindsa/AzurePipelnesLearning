@@ -3,7 +3,7 @@ trigger:
 
 pool:
   # vmImage: 'ubuntu-latest'
-  name: 'mss-azurepipelines'
+  name: 'vmss-devops'
 
 jobs:  
 - job: Job1
